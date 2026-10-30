@@ -8,15 +8,15 @@
 #### La Gravaj Teoriaj Projektoj
 *A New Set of Ideas for the 21st Century*
 
-Welcome to the central repository for **La Gravaj Teoriaj Projektoj**—a multidisciplinary canon of advanced research, alternative paradigms, and foundational frameworks designed to challenge conventional wisdom and address complex structural problems[cite: 12].
+The **La Gravaj Teoriaj Projektoj** represent a multidisciplinary set  of advanced research, alternative paradigms, and foundational frameworks designed to challenge conventional wisdom and offer alternative models and theories.
 
 ---
 
-### Core Theoretical Frameworks
+### Some Theoretical Frameworks
 
 * **A New Theory of the Firm**
   * Re-evaluating corporate architecture, organizational boundaries, and value generation mechanics for the modern economic landscape. 
-  * *Access:* Publicly accessible document with accompanying interactive reference materials via QR code.
+  * *Access:* Publicly accessible documents available with accompanying interactive reference materials via QR code.
 
 * **Philosophy: La Gxoja Filozofio**
   * Exploring structured frameworks of resilience, cognitive clarity, and human fulfillment.
