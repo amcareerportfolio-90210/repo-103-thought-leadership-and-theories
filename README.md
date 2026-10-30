@@ -32,4 +32,5 @@ The **La Gravaj Teoriaj Projektoj** represent a multidisciplinary set  of advanc
 ### Additional Notes & Access
 
 > *Note: Review of supplementary material behind designated QR codes and secure links is optional for casual readers, but provided for deep-dive researchers and academic collaborators.*
+
 [+]
