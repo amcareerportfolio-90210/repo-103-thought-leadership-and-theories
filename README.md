@@ -3,10 +3,10 @@
 #### Other relevant GitHub repo: repo-100-career-position-history (github.com/amcareerportfolio-90210)
 
 [+]
-# Theories & Thought Leadership
+#### Theories & Thought Leadership
 
-## La Gravaj Teoriaj Projektoj
-*A New Canon of Ideas for the 21st Century*
+#### La Gravaj Teoriaj Projektoj
+*A New Set of Ideas for the 21st Century*
 
 Welcome to the central repository for **La Gravaj Teoriaj Projektoj**—a multidisciplinary canon of advanced research, alternative paradigms, and foundational frameworks designed to challenge conventional wisdom and address complex structural problems[cite: 12].
 
